@@ -17,7 +17,7 @@ keyboard = InlineKeyboardMarkup([
 ])
 
 image_path = "taegukgi.jpg"
-text = "디스토피아 안내 패널입니다.\n아래 버튼을 통해 필요한 채널에 참여하세요."
+text = "일자리천국 안내 패널입니다.\n아래 버튼을 통해 필요한 채널에 참여하세요."
 
 async def send_message():
     bot = Bot(token=BOT_TOKEN)
