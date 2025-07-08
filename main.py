@@ -19,7 +19,7 @@ keyboard = InlineKeyboardMarkup([
 ])
 
 # 이미지 파일 이름 (레포 내 포함되어야 함)
-image_path = "taegukgi.png"
+image_path = "taegukgi.jpg"
 # 메시지 내용
 text = "일자리천국 안내 패널입니다.\n아래 버튼을 통해 필요한 채널에 참여하세요."
 
